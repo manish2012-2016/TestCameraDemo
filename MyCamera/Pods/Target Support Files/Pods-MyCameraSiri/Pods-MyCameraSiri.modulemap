@@ -1,0 +1,6 @@
+framework module Pods_MyCameraSiri {
+  umbrella header "Pods-MyCameraSiri-umbrella.h"
+
+  export *
+  module * { export * }
+}
